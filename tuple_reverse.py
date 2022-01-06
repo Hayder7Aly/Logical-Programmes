@@ -1,0 +1,5 @@
+t=eval(input('Please Enter The Element For Comma Seperate : '))
+l=list(t)
+l.reverse()
+print(tuple(l))
+input()

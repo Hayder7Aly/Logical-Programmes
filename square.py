@@ -1,0 +1,1 @@
+[x for x in range(1,int(input('Please Enter a Number For Their Square : '))+1) if print(x**2)],input()

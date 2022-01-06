@@ -1,0 +1,8 @@
+yougurt,800
+milk,100
+sugar,90
+tea,150
+rice,150
+ghee,250
+oil,300
+register,100

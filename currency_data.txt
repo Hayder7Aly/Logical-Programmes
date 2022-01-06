@@ -1,0 +1,10 @@
+Austalian Dolor ,  155  , ruppes , hello there 
+Canada Dolor    ,145, ruppes , hello there
+Pond Currency   ,130, ruppes , hello there
+Spanish Dolor   ,45,  ruppes , hello there
+Indian ruppes   ,3,   ruppes , hello there
+USA Dolor       ,160, ruppes , hello there
+Frace Dolor     ,122, ruppes , hello there
+Germany Dolor   ,34,  ruppes , hello there
+Italy  Dolor    ,130, ruppes , hello there
+Saudi Riyal     ,56,  ruppes , hello there
